@@ -1,0 +1,8 @@
+function main() {
+    get_args()
+
+    if args.include(config):
+        // Configure
+    else:
+
+}
